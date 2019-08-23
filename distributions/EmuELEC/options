@@ -15,13 +15,13 @@
 
 # Welcome Message for e.g. SSH Server (up to 5 Lines)
   GREETING0="##############################################"
-  GREETING1="#                 EmuELEC                    #"
-  GREETING2="#     Retro emulation for Amlogic Devices    #"
-  GREETING3="#             Based on CoreELEC              #"
+  GREETING1="#                 1NUup                      #"
+  GREETING2="#     Retro emulación para Amlogic Devices   #"
+  GREETING3="#             Basedo en CoreELEC             #"
   GREETING4="##############################################"
 
 # Root password to integrate in the target system
-  ROOT_PASSWORD="emuelec"
+  ROOT_PASSWORD="1NUup"
 
 # Install glibc locales to the build (yes / no)
   GLIBC_LOCALES="yes"
